@@ -1,0 +1,33 @@
+#header {
+  color: #DCC620;
+  text-align: center;
+}
+#header {
+  border: 1px solid black;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 25px;
+}
+
+
+}
+
+a:link{
+  color: red;
+}
+a:visited{
+  color: green
+}
+a:hover{
+  color: blue
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 18px;
+}
+p {
+  font-family: 'MonteCarlo';
+}
